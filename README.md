@@ -1,3 +1,3 @@
-# "Link in Bio" Page for Instagram or Other Social Media Platform
+# GitHub Home page
 
-A linktree-type "link in bio" for Instagram or other social media platforms. No frameworks.
+Check out my social media and latest projects on this "link in bio" style page!
