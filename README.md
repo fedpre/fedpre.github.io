@@ -1,4 +1,3 @@
-# My Portfolio (mock)
-## To be completed
+# "Link in Bio" Page for Instagram or Other Social Media Platform
 
-Live link: [Mock Personal Portfolio](https://fedpre.github.io/)
+A linktree-type "link in bio" for Instagram or other social media platforms. No frameworks.
